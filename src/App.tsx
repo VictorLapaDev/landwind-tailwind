@@ -7,8 +7,7 @@ function App() {
 
   return (
     <div className="w-[100%] bg-black">
-    <Header></Header>
-    <RouterProvider router={routes}></RouterProvider>
+        <Header/>
     </div>
   )
 }
