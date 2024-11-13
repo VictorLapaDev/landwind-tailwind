@@ -8,7 +8,7 @@ import uber from '../../assets/images/uber.svg'
 
 const CostumerLogos = () => {
   return (
-    <div className='flex justify-around bg-white'>
+    <div className='flex justify-around bg-white mb-24'>
             <img src={google}/>
             <img src={microsoft}/>
             <img src={spotfy}/>

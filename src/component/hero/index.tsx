@@ -2,7 +2,7 @@ import marketing from '../../assets/images/marketing-strategy.svg'
 
 const Hero = () => {
   return (
-    <div className='bg-white flex items-center w-[100%] px-20 py-32 gap-44'>
+    <div className='bg-white flex items-center w-[100%] px-20 py-20 gap-44'>
         
         <div className='text-left w-[50%]'>
             <p className='leading-none text-6xl font-black py-3'>Building digital products & brands.</p>
