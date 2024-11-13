@@ -1,6 +1,5 @@
-import { RouterProvider } from "react-router-dom"
-import { routes } from "./routes/routes"
 import { Header } from "./component/header"
+import Hero from "./component/hero"
 
 
 function App() {
@@ -8,6 +7,7 @@ function App() {
   return (
     <div className="w-[100%] bg-black">
         <Header/>
+        <Hero/>
     </div>
   )
 }
