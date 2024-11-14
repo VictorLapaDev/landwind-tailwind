@@ -3,6 +3,7 @@ import Feature from "./component/feature"
 import { Header } from "./component/header"
 import Hero from "./component/hero"
 import SocialProof from "./component/socialProof"
+import Testimonial from "./component/testimonial"
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         <CostumerLogos/>
         <Feature/>  
         <SocialProof/>
+        <Testimonial/>
     </div>
   )
 }
