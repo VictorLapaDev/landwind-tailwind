@@ -1,3 +1,4 @@
+import CTA from "./component/CTA"
 import CostumerLogos from "./component/customLogo"
 import FAQ from "./component/FAQ"
 import Feature from "./component/feature"
@@ -20,6 +21,7 @@ function App() {
         <Testimonial/>
         <Pricing/>
         <FAQ/>
+        <CTA/>
     </div>
   )
 }
