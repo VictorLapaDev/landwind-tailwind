@@ -1,4 +1,5 @@
 import CostumerLogos from "./component/customLogo"
+import FAQ from "./component/FAQ"
 import Feature from "./component/feature"
 import { Header } from "./component/header"
 import Hero from "./component/hero"
@@ -18,6 +19,7 @@ function App() {
         <SocialProof/>
         <Testimonial/>
         <Pricing/>
+        <FAQ/>
     </div>
   )
 }
