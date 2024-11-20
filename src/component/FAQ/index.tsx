@@ -24,7 +24,7 @@ const FAQ = () => {
                         <p>Generally, it is accepted to use FlowBite in open-source projects, as long as it is not a UI library, a theme, a template, a page-builder that would be considered as an alternative to FlowBite itself.</p>
                         <p>With that being said, feel free to use this design kit for your open-source projects.</p>
                         <p>Find out more information by 
-                            <a className="text-base font-medium text-purple-600" href="">reading the license.</a>
+                            <a className="text-base font-medium text-purple-600" href=""> reading the license.</a>
                         </p>
                     </div>
                 }
@@ -41,7 +41,7 @@ const FAQ = () => {
                         <p>Generally, it is accepted to use FlowBite in open-source projects, as long as it is not a UI library, a theme, a template, a page-builder that would be considered as an alternative to FlowBite itself.</p>
                         <p>With that being said, feel free to use this design kit for your open-source projects.</p>
                         <p>Find out more information by 
-                            <a className="text-base font-medium text-purple-600" href="">reading the license.</a>
+                            <a className="text-base font-medium text-purple-600" href=""> reading the license.</a>
                         </p>
                     </div>
                 }
@@ -59,7 +59,7 @@ const FAQ = () => {
                         <p>Generally, it is accepted to use FlowBite in open-source projects, as long as it is not a UI library, a theme, a template, a page-builder that would be considered as an alternative to FlowBite itself.</p>
                         <p>With that being said, feel free to use this design kit for your open-source projects.</p>
                         <p>Find out more information by 
-                            <a className="text-base font-medium text-purple-600" href="">reading the license.</a>
+                            <a className="text-base font-medium text-purple-600" href=""> reading the license.</a>
                         </p>
                     </div>
                 }
@@ -78,7 +78,7 @@ const FAQ = () => {
                         <p>Generally, it is accepted to use FlowBite in open-source projects, as long as it is not a UI library, a theme, a template, a page-builder that would be considered as an alternative to FlowBite itself.</p>
                         <p>With that being said, feel free to use this design kit for your open-source projects.</p>
                         <p>Find out more information by 
-                            <a className="text-base font-medium text-purple-600" href="">reading the license.</a>
+                            <a className="text-base font-medium text-purple-600" href=""> reading the license.</a>
                         </p>
                     </div>
                 }

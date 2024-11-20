@@ -17,8 +17,8 @@ const SocialProof = () => {
             <div className='bg-gray-200 h-[1px] w-full mt-4 mb-4'/>
 
             <ul className='py-2'>
-                <li className='flex leading-none text-base font-medium text-purple-600 gap-2 py-2'><span>Explore Legality Guide</span> <img src={arrow}/></li>
-                <li className='flex leading-none text-base font-medium text-purple-600 gap-2 py-2'><span>Visit the Trust Center</span><img src={arrow}/></li>
+                <li className='flex leading-none text-base font-medium text-purple-600 gap-2 py-2'><a className='flex gap-2' href=''>Explore Legality Guide <img src={arrow}/></a></li>
+                <li className='flex leading-none text-base font-medium text-purple-600 gap-2 py-2'><a className='flex gap-2' href=''>Visit the Trust Center<img src={arrow}/></a></li>
             </ul>
         </div>
 

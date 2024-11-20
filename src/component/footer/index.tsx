@@ -63,17 +63,17 @@ const Footer = () => {
         </div>
 
         <div className='flex flex-col w-full items-center gap-5 pt-16'>
-            <div className='flex items-center gap-3'>
+            <a className='flex items-center gap-3' href=''>
                 <img src={logo} alt="Logo do projeto" />
                 <h1 className='text-gray-900 text-2xl font-semibold'>Landwind</h1>
-            </div>
+            </a>
             <p className='text-gray-500 text-base font-normal'>© 2022 Flowbite, Inc. All rights reserved.</p>
 
             <div className='flex gap-5'>
-                <img src={git} alt="github" />
-                <img src={twitter} alt="twitter" />
-                <img src={drible} alt="drible" />
-                <img src={face} alt="face" />
+                <a href=""> <img src={git} alt="github" /> </a>
+                <a href=""> <img src={twitter} alt="twitter" /> </a>
+                <a href=""> <img src={drible} alt="drible" /> </a>
+                <a href=""> <img src={face} alt="face" /> </a>
             </div>
         </div>
     </div>
